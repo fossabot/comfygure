@@ -14,7 +14,8 @@ ${bold('COMMANDS')}
         help        Show this very help message
         init        Initialize comfy for a directory
         setall      Add a new configuration version
-        get         Retrieve the configuration
+        set         Replace a single value in an existing configuration
+        get         Retrieve a configuration
         env         Manage configuration environments
         tag         Manage configuration tags
         log         List all configuration versions
